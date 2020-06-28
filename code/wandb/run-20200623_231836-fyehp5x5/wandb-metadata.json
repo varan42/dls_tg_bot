@@ -1,0 +1,29 @@
+{
+    "root": "/home/andrey/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/dls_tgbot/fsdl-text-recognizer-project",
+    "program": "training/run_experiment.py",
+    "git": {
+        "remote": "https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project.git",
+        "commit": "713f069a2b4eb9d4c2e13090fe34764b8ac10556"
+    },
+    "email": "andrei.varkentin@yandex.ru",
+    "codePath": "lab5/training/run_experiment.py",
+    "startedAt": "2020-06-23T23:18:37.054918",
+    "host": "andrey-Inspiron-7577",
+    "username": "andrey",
+    "executable": "/home/andrey/anaconda3/envs/fsdl-text-recognizer/bin/python",
+    "os": "Linux-4.15.0-106-generic-x86_64-with-debian-buster-sid",
+    "python": "3.7.7",
+    "gpu": "GeForce GTX 1060 with Max-Q Design",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "args": [
+        "--save",
+        "{\"dataset\": \"IamLinesDataset\", \"model\": \"LineModelCtc\", \"network\": \"line_lstm_ctc\"}"
+    ],
+    "state": "finished",
+    "jobType": null,
+    "mode": "run",
+    "project": "fsdl-text-recognizer-nov2019",
+    "heartbeatAt": "2020-06-23T23:31:59.305340",
+    "exitcode": 0
+}
