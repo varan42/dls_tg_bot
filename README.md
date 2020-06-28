@@ -1,10 +1,10 @@
 # dls_tg_bot
 
-##Description
+## Description
 
-##Repo structure
+## Repo structure
 
-##Solution and problems
+## Solution and problems
 
-##References
+## References
 
