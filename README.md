@@ -4,6 +4,8 @@
 
 Project is devoted to building Telegram bot, that will be able to receive photo and return recognized English text from it.
 
+Bot has username dls_ocr_bot
+
 
 ## Repo structure
 
