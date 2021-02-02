@@ -10,7 +10,7 @@ babel==2.8.0
 backcall==0.1.0
 bandit==1.6.2
 black==19.10b0
-bleach==3.1.4
+bleach==3.3.0
 blessings==1.7
 boltons==20.0.0
 cachetools==4.0.0
